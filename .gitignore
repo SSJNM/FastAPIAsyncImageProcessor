@@ -1,0 +1,18 @@
+.idea
+.ipynb_checkpoints
+.mypy_cache
+.vscode
+__pycache__
+.pytest_cache
+
+# vim temporary files
+*~
+.*.sw?
+.cache
+
+# macOS
+.DS_Store
+
+.env
+envAPI
+__init__.py
